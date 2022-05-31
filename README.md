@@ -1,4 +1,3 @@
-#Tic Tac Toe
 Hello, this is my first repo on Github. I have made this android development project using java. This android app is a Gaming app. The game is known
 as "**Tic Tac Toe**".
 
