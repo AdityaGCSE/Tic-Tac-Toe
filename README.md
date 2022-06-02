@@ -2,7 +2,7 @@
 Hello, this is my first repo on Github. I have made this android development project using java. This android app is a Gaming app. The game is known
 as "**Tic Tac Toe**".
 
-  Tic Tac Toe is a game for two players. It is a board game. The board has 3x3 grid. Both Player gives his/her turn alternetively, untill one of them win
+  Tic Tac Toe is a game for two players. It is a board game. The board has 3x3 grid. Both Player gives his/her turn altarnetively, until one of them win
 or the game ends with draw. Who takes turn marks one of the spaces in 3x3 grid, one of the player marks with "**O**" and other marks with "**X**".  The
 Player who succeeded in placing three respective marks in a horizontal, vertical or a diagonal row wins the game. If none of the two players succeeded to 
 do that the game ends with draw.
